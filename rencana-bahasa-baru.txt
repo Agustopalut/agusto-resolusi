@@ -1,3 +1,4 @@
 RENCANA GANTI BAHASA PEMROGAMAN BARU
 -saya ingin belajar bahasa pemrogaman baru yaitu pyhton
 -dan saya juga ingin belajar bahasa php
+-setelah php,saya ingin belajar golang
