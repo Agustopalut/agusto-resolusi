@@ -3,4 +3,6 @@ RENCANA GANTI BAHASA PEMROGAMAN BARU
 -dan saya juga ingin belajar bahasa php
 -setelah php,saya ingin belajar golang
 -ingin menguasa algoritma dan sturktur data
--ingin belajar framework laravel
+-ingin belajar laravel
+-ingin belajar framework spring pada java
+-ingin belajar framework django pada python
